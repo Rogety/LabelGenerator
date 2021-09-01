@@ -1169,8 +1169,8 @@ if __name__ == '__main__':
     qst_HTS, qst_utt_HTS = gen_qst("HTS")
     qst_DNN =  gen_qst_DNN("DNN")
 
-    input_dir_path = os.path.expanduser("~/Desktop/project/EA_V2/input/")
-    qes_dir_path = os.path.join(input_dir_path, "Questionset")
+    input_dir_path = os.path.join(os.getcwd(), "input")
+    qes_dir_path = os.path.join(input_dir_path, "Gen_Questionset")
     if not os.path.isdir(qes_dir_path):
 	    os.mkdir(qes_dir_path)
 
