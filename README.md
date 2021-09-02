@@ -56,7 +56,9 @@
 5. 下載完 database 要改檔案名稱對應到我的目錄
 
 ## 下載連結
-Montreal-Forced-Aligner : https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner
-arctic database : http://www.festvox.org/cmu_arctic/
-ljspeech database : https://keithito.com/LJ-Speech-Dataset/
+1. Montreal-Forced-Aligner : https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner
+2. arctic database : http://www.festvox.org/cmu_arctic/
+3. ljspeech database : https://keithito.com/LJ-Speech-Dataset/
+
+
 
